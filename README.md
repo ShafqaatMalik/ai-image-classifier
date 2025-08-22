@@ -1,7 +1,7 @@
 # AI-based Image Classifier for an E-commerce Retailer
 
 ## Overview
-This project implements a Convolutional Neural Network (CNN) using PyTorch to classify product images for an e-commerce retailer. The model is trained and evaluated on the FashionMNIST dataset, which contains various clothing item images, simulating a real-world retail scenario.
+AI Image Classifier is a deep learning project designed to classify product images for e-commerce applications. Built with PyTorch, it leverages convolutional neural networks (CNNs) and the FashionMNIST dataset to demonstrate robust multiclass image classification. The project includes model training, evaluation, and visualization of results, making it a practical resource for machine learning enthusiasts and retail data scientists.
 
 ## Features
 - Uses PyTorch and TorchMetrics for model development and evaluation
