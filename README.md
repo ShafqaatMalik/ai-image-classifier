@@ -17,16 +17,8 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
   - Max pooling
   - Flatten layer
 - **Classifier:**
-  - Fully connected layer for 10 classe
+  - Fully connected layer for 10 classes
 
 ## Results
 The notebook prints overall and per-class accuracy, precision, and recall after model evaluation.
-
-## Model Performance
-
-| Metric     | Score |
-|------------|-------|
-| Accuracy   |  |
-| Precision  |  |
-| Recall     |  |
-
+![alt text](image.png)
